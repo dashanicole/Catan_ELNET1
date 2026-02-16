@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DIETHER CATAN\\Downloads\\Improved_StudentReportApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23129E10-091E-4215-80A2-D1D41F77FA80}|StudentReportApp\\StudentReportApp.csproj|c:\\users\\diether catan\\downloads\\improved_studentreportapp\\studentreportapp\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23129E10-091E-4215-80A2-D1D41F77FA80}|StudentReportApp\\StudentReportApp.csproj|solutionrelative:studentreportapp\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23129E10-091E-4215-80A2-D1D41F77FA80}|StudentReportApp\\StudentReportApp.csproj|c:\\users\\diether catan\\downloads\\improved_studentreportapp\\studentreportapp\\views\\report\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23129E10-091E-4215-80A2-D1D41F77FA80}|StudentReportApp\\StudentReportApp.csproj|solutionrelative:studentreportapp\\views\\report\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23129E10-091E-4215-80A2-D1D41F77FA80}|StudentReportApp\\StudentReportApp.csproj|c:\\users\\diether catan\\downloads\\improved_studentreportapp\\studentreportapp\\models\\studentreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23129E10-091E-4215-80A2-D1D41F77FA80}|StudentReportApp\\StudentReportApp.csproj|solutionrelative:studentreportapp\\models\\studentreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23129E10-091E-4215-80A2-D1D41F77FA80}|StudentReportApp\\StudentReportApp.csproj|c:\\users\\diether catan\\downloads\\improved_studentreportapp\\studentreportapp\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23129E10-091E-4215-80A2-D1D41F77FA80}|StudentReportApp\\StudentReportApp.csproj|solutionrelative:studentreportapp\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23129E10-091E-4215-80A2-D1D41F77FA80}|StudentReportApp\\StudentReportApp.csproj|c:\\users\\diether catan\\downloads\\improved_studentreportapp\\studentreportapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23129E10-091E-4215-80A2-D1D41F77FA80}|StudentReportApp\\StudentReportApp.csproj|solutionrelative:studentreportapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23129E10-091E-4215-80A2-D1D41F77FA80}|StudentReportApp\\StudentReportApp.csproj|c:\\users\\diether catan\\downloads\\improved_studentreportapp\\studentreportapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23129E10-091E-4215-80A2-D1D41F77FA80}|StudentReportApp\\StudentReportApp.csproj|solutionrelative:studentreportapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23129E10-091E-4215-80A2-D1D41F77FA80}|StudentReportApp\\StudentReportApp.csproj|c:\\users\\diether catan\\downloads\\improved_studentreportapp\\studentreportapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23129E10-091E-4215-80A2-D1D41F77FA80}|StudentReportApp\\StudentReportApp.csproj|solutionrelative:studentreportapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23129E10-091E-4215-80A2-D1D41F77FA80}|StudentReportApp\\StudentReportApp.csproj|c:\\users\\diether catan\\downloads\\improved_studentreportapp\\studentreportapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23129E10-091E-4215-80A2-D1D41F77FA80}|StudentReportApp\\StudentReportApp.csproj|solutionrelative:studentreportapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23129E10-091E-4215-80A2-D1D41F77FA80}|StudentReportApp\\StudentReportApp.csproj|c:\\users\\diether catan\\downloads\\improved_studentreportapp\\studentreportapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23129E10-091E-4215-80A2-D1D41F77FA80}|StudentReportApp\\StudentReportApp.csproj|solutionrelative:studentreportapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23129E10-091E-4215-80A2-D1D41F77FA80}|StudentReportApp\\StudentReportApp.csproj|c:\\users\\diether catan\\downloads\\improved_studentreportapp\\studentreportapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23129E10-091E-4215-80A2-D1D41F77FA80}|StudentReportApp\\StudentReportApp.csproj|solutionrelative:studentreportapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\Downloads\\Improved_StudentReportApp\\StudentReportApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentReportApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\Downloads\\Improved_StudentReportApp\\StudentReportApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentReportApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T04:45:32.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\Downloads\\Improved_StudentReportApp\\StudentReportApp\\Views\\Report\\Result.cshtml",
+              "RelativeDocumentMoniker": "StudentReportApp\\Views\\Report\\Result.cshtml",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\Downloads\\Improved_StudentReportApp\\StudentReportApp\\Views\\Report\\Result.cshtml",
+              "RelativeToolTip": "StudentReportApp\\Views\\Report\\Result.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAFIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-16T03:53:41.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\Downloads\\Improved_StudentReportApp\\StudentReportApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "StudentReportApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\Downloads\\Improved_StudentReportApp\\StudentReportApp\\appsettings.Development.json",
+              "RelativeToolTip": "StudentReportApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-16T03:35:56.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentReport.cs",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\Downloads\\Improved_StudentReportApp\\StudentReportApp\\Models\\StudentReport.cs",
+              "RelativeDocumentMoniker": "StudentReportApp\\Models\\StudentReport.cs",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\Downloads\\Improved_StudentReportApp\\StudentReportApp\\Models\\StudentReport.cs",
+              "RelativeToolTip": "StudentReportApp\\Models\\StudentReport.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T03:35:45.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\Downloads\\Improved_StudentReportApp\\StudentReportApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "StudentReportApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\Downloads\\Improved_StudentReportApp\\StudentReportApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "StudentReportApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T02:48:10.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\Downloads\\Improved_StudentReportApp\\StudentReportApp\\Program.cs",
+              "RelativeDocumentMoniker": "StudentReportApp\\Program.cs",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\Downloads\\Improved_StudentReportApp\\StudentReportApp\\Program.cs",
+              "RelativeToolTip": "StudentReportApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T03:38:18.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\Downloads\\Improved_StudentReportApp\\StudentReportApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StudentReportApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\Downloads\\Improved_StudentReportApp\\StudentReportApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StudentReportApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-06T01:43:04.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\Downloads\\Improved_StudentReportApp\\StudentReportApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StudentReportApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\Downloads\\Improved_StudentReportApp\\StudentReportApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StudentReportApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-06T01:43:02.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\Downloads\\Improved_StudentReportApp\\StudentReportApp\\Views\\Report\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentReportApp\\Views\\Report\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\Downloads\\Improved_StudentReportApp\\StudentReportApp\\Views\\Report\\Index.cshtml",
+              "RelativeToolTip": "StudentReportApp\\Views\\Report\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-06T01:41:53.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\Downloads\\Improved_StudentReportApp\\StudentReportApp\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "StudentReportApp\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\Downloads\\Improved_StudentReportApp\\StudentReportApp\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "StudentReportApp\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T01:41:02.663Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

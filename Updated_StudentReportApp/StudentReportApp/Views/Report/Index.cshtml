@@ -1,0 +1,78 @@
+﻿@model StudentReportApp.Models.StudentReport
+
+@{
+    ViewData["Title"] = "Student Report Card";
+    double finalGpa = Model.ComputeGPA();
+    bool isPassed = finalGpa <= 3.0;
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow border-0">
+                <div class="card-header @(isPassed ? "bg-success" : "bg-danger") text-white p-4">
+                    <div class="d-flex justify-content-between align-items-center">
+                        <div>
+                            <h2 class="mb-0">@Model.StudentName</h2>
+                            <small class="opacity-75">Student ID: @Model.StudentId</small>
+                        </div>
+                        <div class="text-end">
+                            <span class="badge bg-white @(isPassed ? "text-success" : "text-danger") fs-6 shadow-sm">
+                                @Model.GetRemarks(finalGpa)
+                            </span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card-body p-4">
+                    <div class="row mb-4">
+                        <div class="col-sm-6">
+                            <p class="text-muted small mb-1">Report Generated On</p>
+                            <h6>@Model.GetCurrentDateTime()</h6>
+                        </div>
+                        <div class="col-sm-6 text-sm-end">
+                            <p class="text-muted small mb-1">Overall GPA</p>
+                            <h3 class="text-primary fw-bold">@finalGpa.ToString("0.00")</h3>
+                        </div>
+                    </div>
+
+                    <hr />
+
+                    <h5 class="mb-3 text-secondary">Grade Breakdown</h5>
+                    <div class="table-responsive">
+                        <table class="table table-hover align-middle">
+                            <thead class="table-light">
+                                <tr>
+                                    <th class="ps-3">Subject Name</th>
+                                    <th class="text-end pe-3">Grade</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @if (Model.StudentGrades != null && Model.StudentGrades.Any())
+                                {
+                                    @for (int i = 0; i < Model.StudentGrades.Count; i++)
+                                    {
+                                        <tr>
+                                            <td class="ps-3">
+                                                @(Model.SubjectNames.Count > i ? Model.SubjectNames[i] : $"Subject {i + 1}")
+                                            </td>
+                                            <td class="text-end pe-3 fw-bold">
+                                                @Model.StudentGrades[i].ToString("0.0")
+                                            </td>
+                                        </tr>
+                                    }
+                                }
+                                else
+                                {
+                                    <tr>
+                                        <td colspan="2" class="text-center py-4 text-muted">No grades recorded.</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
