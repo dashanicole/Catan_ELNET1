@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PP109\\source\\repos\\SampleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8282AF6D-882D-E3F6-2587-2F2245C45D35}|SampleApp\\FirstMVCApp.csproj|c:\\users\\pp109\\source\\repos\\sampleapp\\sampleapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8282AF6D-882D-E3F6-2587-2F2245C45D35}|SampleApp\\FirstMVCApp.csproj|solutionrelative:sampleapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8282AF6D-882D-E3F6-2587-2F2245C45D35}|SampleApp\\FirstMVCApp.csproj|c:\\users\\pp109\\source\\repos\\sampleapp\\sampleapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8282AF6D-882D-E3F6-2587-2F2245C45D35}|SampleApp\\FirstMVCApp.csproj|solutionrelative:sampleapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8282AF6D-882D-E3F6-2587-2F2245C45D35}|SampleApp\\FirstMVCApp.csproj|c:\\users\\pp109\\source\\repos\\sampleapp\\sampleapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8282AF6D-882D-E3F6-2587-2F2245C45D35}|SampleApp\\FirstMVCApp.csproj|solutionrelative:sampleapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8282AF6D-882D-E3F6-2587-2F2245C45D35}|SampleApp\\FirstMVCApp.csproj|c:\\users\\pp109\\source\\repos\\sampleapp\\sampleapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8282AF6D-882D-E3F6-2587-2F2245C45D35}|SampleApp\\FirstMVCApp.csproj|solutionrelative:sampleapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8282AF6D-882D-E3F6-2587-2F2245C45D35}|SampleApp\\FirstMVCApp.csproj|c:\\users\\pp109\\source\\repos\\sampleapp\\sampleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8282AF6D-882D-E3F6-2587-2F2245C45D35}|SampleApp\\FirstMVCApp.csproj|solutionrelative:sampleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8282AF6D-882D-E3F6-2587-2F2245C45D35}|SampleApp\\CATAN_LabActivity1.csproj|c:\\users\\pp109\\source\\repos\\sampleapp\\sampleapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8282AF6D-882D-E3F6-2587-2F2245C45D35}|SampleApp\\CATAN_LabActivity1.csproj|solutionrelative:sampleapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8282AF6D-882D-E3F6-2587-2F2245C45D35}|SampleApp\\CATAN_LabActivity1.csproj|c:\\users\\pp109\\source\\repos\\sampleapp\\sampleapp\\catan_labactivity1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8282AF6D-882D-E3F6-2587-2F2245C45D35}|SampleApp\\CATAN_LabActivity1.csproj|solutionrelative:sampleapp\\catan_labactivity1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8282AF6D-882D-E3F6-2587-2F2245C45D35}|SampleApp\\CATAN_LabActivity1.csproj|c:\\users\\pp109\\source\\repos\\sampleapp\\sampleapp\\catan_labactivity1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8282AF6D-882D-E3F6-2587-2F2245C45D35}|SampleApp\\CATAN_LabActivity1.csproj|solutionrelative:sampleapp\\catan_labactivity1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PP109\\source\\repos\\SampleApp\\SampleApp\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "SampleApp\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PP109\\source\\repos\\SampleApp\\SampleApp\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "SampleApp\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T00:14:01.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PP109\\source\\repos\\SampleApp\\SampleApp\\Program.cs",
+              "RelativeDocumentMoniker": "SampleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\PP109\\source\\repos\\SampleApp\\SampleApp\\Program.cs",
+              "RelativeToolTip": "SampleApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T00:02:37.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\PP109\\source\\repos\\SampleApp\\SampleApp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "SampleApp\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\PP109\\source\\repos\\SampleApp\\SampleApp\\Models\\Student.cs",
+              "RelativeToolTip": "SampleApp\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T23:55:43.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\PP109\\source\\repos\\SampleApp\\SampleApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SampleApp\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\PP109\\source\\repos\\SampleApp\\SampleApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SampleApp\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T00:03:50.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PP109\\source\\repos\\SampleApp\\SampleApp\\appsettings.json",
+              "RelativeDocumentMoniker": "SampleApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\PP109\\source\\repos\\SampleApp\\SampleApp\\appsettings.json",
+              "RelativeToolTip": "SampleApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-13T00:09:45.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PP109\\source\\repos\\SampleApp\\SampleApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SampleApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PP109\\source\\repos\\SampleApp\\SampleApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SampleApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T00:42:59.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FirstMVCApp",
+              "DocumentMoniker": "C:\\Users\\PP109\\source\\repos\\SampleApp\\SampleApp\\CATAN_LabActivity1.csproj",
+              "RelativeDocumentMoniker": "SampleApp\\CATAN_LabActivity1.csproj",
+              "ToolTip": "C:\\Users\\PP109\\source\\repos\\SampleApp\\SampleApp\\CATAN_LabActivity1.csproj",
+              "RelativeToolTip": "SampleApp\\CATAN_LabActivity1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-13T00:10:04.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CATAN_LabActivity1.csproj",
+              "DocumentMoniker": "C:\\Users\\PP109\\source\\repos\\SampleApp\\SampleApp\\CATAN_LabActivity1.csproj",
+              "RelativeDocumentMoniker": "SampleApp\\CATAN_LabActivity1.csproj",
+              "ToolTip": "C:\\Users\\PP109\\source\\repos\\SampleApp\\SampleApp\\CATAN_LabActivity1.csproj",
+              "RelativeToolTip": "SampleApp\\CATAN_LabActivity1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-13T00:09:58.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
