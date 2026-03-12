@@ -1,0 +1,154 @@
+@model CATAN_Assignment3.Models.StudentRegistration
+
+<style>
+    .registration-container {
+        max-width: 600px;
+        margin: 40px auto;
+        padding: 30px;
+        border-radius: 12px;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+        background-color: #ffffff;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    .form-label {
+        display: block;
+        font-weight: 600;
+        margin-bottom: 8px;
+        color: #374151;
+    }
+
+    .form-control {
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #d1d5db;
+        border-radius: 8px;
+        font-size: 16px;
+        transition: border-color 0.2s, box-shadow 0.2s;
+    }
+
+    .form-control:focus {
+        border-color: #2563eb;
+        box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+        outline: none;
+    }
+
+    .text-danger {
+        color: #dc2626;
+        font-size: 14px;
+        margin-top: 5px;
+        display: block;
+    }
+
+    .btn-submit {
+        width: 100%;
+        padding: 14px;
+        background-color: #2563eb;
+        color: white;
+        border: none;
+        border-radius: 8px;
+        font-size: 16px;
+        font-weight: 600;
+        cursor: pointer;
+        transition: background-color 0.2s;
+    }
+
+    .btn-submit:hover {
+        background-color: #1d4ed8;
+    }
+
+    .success-card {
+        margin-top: 30px;
+        padding: 20px;
+        background-color: #f0fdf4;
+        border: 1px solid #bbf7d0;
+        border-radius: 12px;
+    }
+
+    .success-card h4 {
+        color: #166534;
+        margin-top: 0;
+        margin-bottom: 15px;
+    }
+
+    .data-row {
+        display: flex;
+        justify-content: space-between;
+        padding: 8px 0;
+        border-bottom: 1px solid #e5e7eb;
+    }
+
+    .data-row:last-child {
+        border-bottom: none;
+    }
+
+    .data-label {
+        font-weight: 600;
+        color: #4b5563;
+    }
+
+    .data-value {
+        color: #111827;
+    }
+</style>
+
+<div class="registration-container">
+    <partial name="_RegistrationHeader" />
+    <br />
+
+    @using (Html.BeginForm("Register", "Registration"))
+    {
+        <div class="form-group">
+            @Html.LabelFor(m => m.FirstName, new { @class = "form-label" })
+            @Html.TextBoxFor(m => m.FirstName, new { @class = "form-control", placeholder = "Enter your first name" })
+            @Html.ValidationMessageFor(m => m.FirstName, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.LastName, new { @class = "form-label" })
+            @Html.TextBoxFor(m => m.LastName, new { @class = "form-control", placeholder = "Enter your last name" })
+            @Html.ValidationMessageFor(m => m.LastName, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Email, new { @class = "form-label" })
+            @Html.TextBoxFor(m => m.Email, new { @class = "form-control", placeholder = "example@email.com" })
+            @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Age, new { @class = "form-label" })
+            @Html.TextBoxFor(m => m.Age, new { @class = "form-control", placeholder = "Enter your age", type = "number" })
+            @Html.ValidationMessageFor(m => m.Age, "", new { @class = "text-danger" })
+        </div>
+
+        <button type="submit" class="btn-submit">Register Student</button>
+    }
+
+    @if (ViewContext.HttpContext.Request.Method == "POST" && ViewData.ModelState.IsValid)
+    {
+        <div class="success-card">
+            <h4>Registration Successful!</h4>
+            <div class="data-row">
+                <span class="data-label">First Name:</span>
+                <span class="data-value">@Model.FirstName</span>
+            </div>
+            <div class="data-row">
+                <span class="data-label">Last Name:</span>
+                <span class="data-value">@Model.LastName</span>
+            </div>
+            <div class="data-row">
+                <span class="data-label">Email:</span>
+                <span class="data-value">@Model.Email</span>
+            </div>
+            <div class="data-row">
+                <span class="data-label">Age:</span>
+                <span class="data-value">@Model.Age</span>
+            </div>
+        </div>
+    }
+</div>

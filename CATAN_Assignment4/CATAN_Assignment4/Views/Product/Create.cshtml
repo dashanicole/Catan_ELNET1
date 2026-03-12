@@ -1,0 +1,67 @@
+@model CATAN_Assignment4.Models.Product
+@using System.Globalization
+
+<partial name="_ProductHeader" />
+
+<div style="max-width: 720px; margin: 20px auto; font-family: Arial, sans-serif;">
+    <div style="padding: 18px; border: 1px solid #e5e7eb; border-radius: 12px; background: #fff; box-shadow: 0 2px 10px rgba(0,0,0,.06);">
+
+        <h4 style="margin: 0 0 14px;">Enter product details</h4>
+
+        <form asp-action="Create" asp-controller="Product" method="post">
+            <div asp-validation-summary="ModelOnly" style="color:#dc2626; margin-bottom: 12px;"></div>
+
+            <div style="display:grid; grid-template-columns: 1fr 1fr; gap: 14px;">
+
+                <div style="grid-column: 1 / span 2;">
+                    <label asp-for="Name" style="font-weight:600;"></label>
+                    <input asp-for="Name"
+                           class="form-control"
+                           style="width:100%; padding:10px; border:1px solid #d1d5db; border-radius:10px; margin-top:6px;" />
+                    <span asp-validation-for="Name" style="color:#dc2626; font-size:13px;"></span>
+                </div>
+
+                <div>
+                    <label asp-for="Price" style="font-weight:600;"></label>
+                    <input asp-for="Price"
+                           class="form-control"
+                           style="width:100%; padding:10px; border:1px solid #d1d5db; border-radius:10px; margin-top:6px;" />
+                    <span asp-validation-for="Price" style="color:#dc2626; font-size:13px;"></span>
+                </div>
+
+                <div>
+                    <label asp-for="Quantity" style="font-weight:600;"></label>
+                    <input asp-for="Quantity"
+                           class="form-control"
+                           style="width:100%; padding:10px; border:1px solid #d1d5db; border-radius:10px; margin-top:6px;" />
+                    <span asp-validation-for="Quantity" style="color:#dc2626; font-size:13px;"></span>
+                </div>
+
+                <div style="grid-column: 1 / span 2; display:flex; justify-content:flex-end; gap:10px; margin-top:6px;">
+                    <button type="reset"
+                            style="padding:10px 16px; border:1px solid #d1d5db; border-radius:10px; cursor:pointer; background:#fff; font-weight:600;">
+                        Clear
+                    </button>
+
+                    <button type="submit"
+                            style="padding:10px 16px; border:none; border-radius:10px; cursor:pointer; background:#2563eb; color:#fff; font-weight:600;">
+                        Submit
+                    </button>
+                </div>
+            </div>
+        </form>
+    </div>
+
+@if (ViewContext.HttpContext.Request.Method == "POST" && ViewData.ModelState.IsValid)
+{
+        <div style="margin-top: 16px; padding: 16px; border: 1px solid #bbf7d0; border-radius: 12px; background: #f0fdf4;">
+            <h4 style="margin:0 0 10px; color:#166534;">Submitted successfully!</h4>
+
+            <div style="display:grid; grid-template-columns: 160px 1fr; row-gap: 8px; column-gap: 10px;">
+                <div style="font-weight:600;">Total Value:</div>
+                <div>
+                    <b>@(Model.Price * Model.Quantity)</b>
+                </div>
+            </div>
+        </div>
+}

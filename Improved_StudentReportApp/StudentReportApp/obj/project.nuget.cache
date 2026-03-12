@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9oELI0G9Dig=",
+  "dgSpecHash": "cVDQWltH3sU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DIETHER CATAN\\Downloads\\Improved_StudentReportApp\\StudentReportApp\\StudentReportApp.csproj",
+  "projectFilePath": "C:\\Users\\DIETHER CATAN\\OneDrive\\Documents\\GitHub_DashaNicole\\Catan_ELNET1\\Improved_StudentReportApp\\StudentReportApp\\StudentReportApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DIETHER CATAN\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\DIETHER CATAN\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_Assignment4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0393B3-A3E2-4DE7-165E-0BBDFB107211}|CATAN_Assignment4\\CATAN_Assignment4.csproj|c:\\users\\diether catan\\source\\repos\\catan_assignment4\\catan_assignment4\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE0393B3-A3E2-4DE7-165E-0BBDFB107211}|CATAN_Assignment4\\CATAN_Assignment4.csproj|solutionrelative:catan_assignment4\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0393B3-A3E2-4DE7-165E-0BBDFB107211}|CATAN_Assignment4\\CATAN_Assignment4.csproj|c:\\users\\diether catan\\source\\repos\\catan_assignment4\\catan_assignment4\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0393B3-A3E2-4DE7-165E-0BBDFB107211}|CATAN_Assignment4\\CATAN_Assignment4.csproj|solutionrelative:catan_assignment4\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0393B3-A3E2-4DE7-165E-0BBDFB107211}|CATAN_Assignment4\\CATAN_Assignment4.csproj|c:\\users\\diether catan\\source\\repos\\catan_assignment4\\catan_assignment4\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0393B3-A3E2-4DE7-165E-0BBDFB107211}|CATAN_Assignment4\\CATAN_Assignment4.csproj|solutionrelative:catan_assignment4\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0393B3-A3E2-4DE7-165E-0BBDFB107211}|CATAN_Assignment4\\CATAN_Assignment4.csproj|c:\\users\\diether catan\\source\\repos\\catan_assignment4\\catan_assignment4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0393B3-A3E2-4DE7-165E-0BBDFB107211}|CATAN_Assignment4\\CATAN_Assignment4.csproj|solutionrelative:catan_assignment4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0393B3-A3E2-4DE7-165E-0BBDFB107211}|CATAN_Assignment4\\CATAN_Assignment4.csproj|c:\\users\\diether catan\\source\\repos\\catan_assignment4\\catan_assignment4\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE0393B3-A3E2-4DE7-165E-0BBDFB107211}|CATAN_Assignment4\\CATAN_Assignment4.csproj|solutionrelative:catan_assignment4\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0393B3-A3E2-4DE7-165E-0BBDFB107211}|CATAN_Assignment4\\CATAN_Assignment4.csproj|c:\\users\\diether catan\\source\\repos\\catan_assignment4\\catan_assignment4\\views\\shared\\_productheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE0393B3-A3E2-4DE7-165E-0BBDFB107211}|CATAN_Assignment4\\CATAN_Assignment4.csproj|solutionrelative:catan_assignment4\\views\\shared\\_productheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0393B3-A3E2-4DE7-165E-0BBDFB107211}|CATAN_Assignment4\\CATAN_Assignment4.csproj|c:\\users\\diether catan\\source\\repos\\catan_assignment4\\catan_assignment4\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE0393B3-A3E2-4DE7-165E-0BBDFB107211}|CATAN_Assignment4\\CATAN_Assignment4.csproj|solutionrelative:catan_assignment4\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0393B3-A3E2-4DE7-165E-0BBDFB107211}|CATAN_Assignment4\\CATAN_Assignment4.csproj|c:\\users\\diether catan\\source\\repos\\catan_assignment4\\catan_assignment4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0393B3-A3E2-4DE7-165E-0BBDFB107211}|CATAN_Assignment4\\CATAN_Assignment4.csproj|solutionrelative:catan_assignment4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_Assignment4\\CATAN_Assignment4\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CATAN_Assignment4\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_Assignment4\\CATAN_Assignment4\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CATAN_Assignment4\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-03T09:52:32.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_Assignment4\\CATAN_Assignment4\\Program.cs",
+              "RelativeDocumentMoniker": "CATAN_Assignment4\\Program.cs",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_Assignment4\\CATAN_Assignment4\\Program.cs",
+              "RelativeToolTip": "CATAN_Assignment4\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T03:23:54.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_Assignment4\\CATAN_Assignment4\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "CATAN_Assignment4\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_Assignment4\\CATAN_Assignment4\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "CATAN_Assignment4\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADsAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-03T03:16:14.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_Assignment4\\CATAN_Assignment4\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CATAN_Assignment4\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_Assignment4\\CATAN_Assignment4\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CATAN_Assignment4\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T03:15:23.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ProductHeader.cshtml",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_Assignment4\\CATAN_Assignment4\\Views\\Shared\\_ProductHeader.cshtml",
+              "RelativeDocumentMoniker": "CATAN_Assignment4\\Views\\Shared\\_ProductHeader.cshtml",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_Assignment4\\CATAN_Assignment4\\Views\\Shared\\_ProductHeader.cshtml",
+              "RelativeToolTip": "CATAN_Assignment4\\Views\\Shared\\_ProductHeader.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-03T03:14:24.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_Assignment4\\CATAN_Assignment4\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CATAN_Assignment4\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_Assignment4\\CATAN_Assignment4\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CATAN_Assignment4\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-03T03:09:42.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_Assignment4\\CATAN_Assignment4\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CATAN_Assignment4\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_Assignment4\\CATAN_Assignment4\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CATAN_Assignment4\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T03:03:11.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_Assignment4\\CATAN_Assignment4\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CATAN_Assignment4\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_Assignment4\\CATAN_Assignment4\\Models\\Product.cs",
+              "RelativeToolTip": "CATAN_Assignment4\\Models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T02:58:27.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
