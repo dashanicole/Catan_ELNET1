@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4385FF-1AB1-9CC9-B018-94F70EC48E64}|CATAN_MachineProblem2\\CATAN_MachineProblem2.csproj|c:\\users\\diether catan\\source\\repos\\catan_machineproblem2\\catan_machineproblem2\\views\\studentprofile\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B4385FF-1AB1-9CC9-B018-94F70EC48E64}|CATAN_MachineProblem2\\CATAN_MachineProblem2.csproj|solutionrelative:catan_machineproblem2\\views\\studentprofile\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4385FF-1AB1-9CC9-B018-94F70EC48E64}|CATAN_MachineProblem2\\CATAN_MachineProblem2.csproj|c:\\users\\diether catan\\source\\repos\\catan_machineproblem2\\catan_machineproblem2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B4385FF-1AB1-9CC9-B018-94F70EC48E64}|CATAN_MachineProblem2\\CATAN_MachineProblem2.csproj|solutionrelative:catan_machineproblem2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4385FF-1AB1-9CC9-B018-94F70EC48E64}|CATAN_MachineProblem2\\CATAN_MachineProblem2.csproj|c:\\users\\diether catan\\source\\repos\\catan_machineproblem2\\catan_machineproblem2\\views\\studentprofile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B4385FF-1AB1-9CC9-B018-94F70EC48E64}|CATAN_MachineProblem2\\CATAN_MachineProblem2.csproj|solutionrelative:catan_machineproblem2\\views\\studentprofile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4385FF-1AB1-9CC9-B018-94F70EC48E64}|CATAN_MachineProblem2\\CATAN_MachineProblem2.csproj|c:\\users\\diether catan\\source\\repos\\catan_machineproblem2\\catan_machineproblem2\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B4385FF-1AB1-9CC9-B018-94F70EC48E64}|CATAN_MachineProblem2\\CATAN_MachineProblem2.csproj|solutionrelative:catan_machineproblem2\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4385FF-1AB1-9CC9-B018-94F70EC48E64}|CATAN_MachineProblem2\\CATAN_MachineProblem2.csproj|c:\\users\\diether catan\\source\\repos\\catan_machineproblem2\\catan_machineproblem2\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B4385FF-1AB1-9CC9-B018-94F70EC48E64}|CATAN_MachineProblem2\\CATAN_MachineProblem2.csproj|solutionrelative:catan_machineproblem2\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4385FF-1AB1-9CC9-B018-94F70EC48E64}|CATAN_MachineProblem2\\CATAN_MachineProblem2.csproj|c:\\users\\diether catan\\source\\repos\\catan_machineproblem2\\catan_machineproblem2\\views\\shared\\_background.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B4385FF-1AB1-9CC9-B018-94F70EC48E64}|CATAN_MachineProblem2\\CATAN_MachineProblem2.csproj|solutionrelative:catan_machineproblem2\\views\\shared\\_background.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4385FF-1AB1-9CC9-B018-94F70EC48E64}|CATAN_MachineProblem2\\CATAN_MachineProblem2.csproj|c:\\users\\diether catan\\source\\repos\\catan_machineproblem2\\catan_machineproblem2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B4385FF-1AB1-9CC9-B018-94F70EC48E64}|CATAN_MachineProblem2\\CATAN_MachineProblem2.csproj|solutionrelative:catan_machineproblem2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4385FF-1AB1-9CC9-B018-94F70EC48E64}|CATAN_MachineProblem2\\CATAN_MachineProblem2.csproj|c:\\users\\diether catan\\source\\repos\\catan_machineproblem2\\catan_machineproblem2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B4385FF-1AB1-9CC9-B018-94F70EC48E64}|CATAN_MachineProblem2\\CATAN_MachineProblem2.csproj|solutionrelative:catan_machineproblem2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4385FF-1AB1-9CC9-B018-94F70EC48E64}|CATAN_MachineProblem2\\CATAN_MachineProblem2.csproj|c:\\users\\diether catan\\source\\repos\\catan_machineproblem2\\catan_machineproblem2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B4385FF-1AB1-9CC9-B018-94F70EC48E64}|CATAN_MachineProblem2\\CATAN_MachineProblem2.csproj|solutionrelative:catan_machineproblem2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4385FF-1AB1-9CC9-B018-94F70EC48E64}|CATAN_MachineProblem2\\CATAN_MachineProblem2.csproj|c:\\users\\diether catan\\source\\repos\\catan_machineproblem2\\catan_machineproblem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4385FF-1AB1-9CC9-B018-94F70EC48E64}|CATAN_MachineProblem2\\CATAN_MachineProblem2.csproj|solutionrelative:catan_machineproblem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4385FF-1AB1-9CC9-B018-94F70EC48E64}|CATAN_MachineProblem2\\CATAN_MachineProblem2.csproj|c:\\users\\diether catan\\source\\repos\\catan_machineproblem2\\catan_machineproblem2\\controllers\\studentprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4385FF-1AB1-9CC9-B018-94F70EC48E64}|CATAN_MachineProblem2\\CATAN_MachineProblem2.csproj|solutionrelative:catan_machineproblem2\\controllers\\studentprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4385FF-1AB1-9CC9-B018-94F70EC48E64}|CATAN_MachineProblem2\\CATAN_MachineProblem2.csproj|c:\\users\\diether catan\\source\\repos\\catan_machineproblem2\\catan_machineproblem2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4385FF-1AB1-9CC9-B018-94F70EC48E64}|CATAN_MachineProblem2\\CATAN_MachineProblem2.csproj|solutionrelative:catan_machineproblem2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4385FF-1AB1-9CC9-B018-94F70EC48E64}|CATAN_MachineProblem2\\CATAN_MachineProblem2.csproj|c:\\users\\diether catan\\source\\repos\\catan_machineproblem2\\catan_machineproblem2\\models\\studenthonors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4385FF-1AB1-9CC9-B018-94F70EC48E64}|CATAN_MachineProblem2\\CATAN_MachineProblem2.csproj|solutionrelative:catan_machineproblem2\\models\\studenthonors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4385FF-1AB1-9CC9-B018-94F70EC48E64}|CATAN_MachineProblem2\\CATAN_MachineProblem2.csproj|c:\\users\\diether catan\\source\\repos\\catan_machineproblem2\\catan_machineproblem2\\models\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4385FF-1AB1-9CC9-B018-94F70EC48E64}|CATAN_MachineProblem2\\CATAN_MachineProblem2.csproj|solutionrelative:catan_machineproblem2\\models\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\CATAN_MachineProblem2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CATAN_MachineProblem2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\CATAN_MachineProblem2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CATAN_MachineProblem2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T00:48:38.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\CATAN_MachineProblem2\\Views\\StudentProfile\\Register.cshtml",
+              "RelativeDocumentMoniker": "CATAN_MachineProblem2\\Views\\StudentProfile\\Register.cshtml",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\CATAN_MachineProblem2\\Views\\StudentProfile\\Register.cshtml",
+              "RelativeToolTip": "CATAN_MachineProblem2\\Views\\StudentProfile\\Register.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T00:38:32.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\CATAN_MachineProblem2\\Views\\StudentProfile\\Index.cshtml",
+              "RelativeDocumentMoniker": "CATAN_MachineProblem2\\Views\\StudentProfile\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\CATAN_MachineProblem2\\Views\\StudentProfile\\Index.cshtml",
+              "RelativeToolTip": "CATAN_MachineProblem2\\Views\\StudentProfile\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T00:36:32.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\CATAN_MachineProblem2\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "CATAN_MachineProblem2\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\CATAN_MachineProblem2\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "CATAN_MachineProblem2\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T00:35:39.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\CATAN_MachineProblem2\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "CATAN_MachineProblem2\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\CATAN_MachineProblem2\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "CATAN_MachineProblem2\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T00:35:22.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Background.cshtml",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\CATAN_MachineProblem2\\Views\\Shared\\_Background.cshtml",
+              "RelativeDocumentMoniker": "CATAN_MachineProblem2\\Views\\Shared\\_Background.cshtml",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\CATAN_MachineProblem2\\Views\\Shared\\_Background.cshtml",
+              "RelativeToolTip": "CATAN_MachineProblem2\\Views\\Shared\\_Background.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T00:34:37.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\CATAN_MachineProblem2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CATAN_MachineProblem2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\CATAN_MachineProblem2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CATAN_MachineProblem2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T00:33:49.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\CATAN_MachineProblem2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CATAN_MachineProblem2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\CATAN_MachineProblem2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CATAN_MachineProblem2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T00:31:45.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\CATAN_MachineProblem2\\appsettings.json",
+              "RelativeDocumentMoniker": "CATAN_MachineProblem2\\appsettings.json",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\CATAN_MachineProblem2\\appsettings.json",
+              "RelativeToolTip": "CATAN_MachineProblem2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-20T00:31:24.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\CATAN_MachineProblem2\\Program.cs",
+              "RelativeDocumentMoniker": "CATAN_MachineProblem2\\Program.cs",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\CATAN_MachineProblem2\\Program.cs",
+              "RelativeToolTip": "CATAN_MachineProblem2\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T00:31:13.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\CATAN_MachineProblem2\\Controllers\\StudentProfileController.cs",
+              "RelativeDocumentMoniker": "CATAN_MachineProblem2\\Controllers\\StudentProfileController.cs",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\CATAN_MachineProblem2\\Controllers\\StudentProfileController.cs",
+              "RelativeToolTip": "CATAN_MachineProblem2\\Controllers\\StudentProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T00:30:56.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\CATAN_MachineProblem2\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CATAN_MachineProblem2\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\CATAN_MachineProblem2\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CATAN_MachineProblem2\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T00:30:00.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentHonors.cs",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\CATAN_MachineProblem2\\Models\\StudentHonors.cs",
+              "RelativeDocumentMoniker": "CATAN_MachineProblem2\\Models\\StudentHonors.cs",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\CATAN_MachineProblem2\\Models\\StudentHonors.cs",
+              "RelativeToolTip": "CATAN_MachineProblem2\\Models\\StudentHonors.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T00:29:06.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\CATAN_MachineProblem2\\Models\\StudentProfile.cs",
+              "RelativeDocumentMoniker": "CATAN_MachineProblem2\\Models\\StudentProfile.cs",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\CATAN_MachineProblem2\\CATAN_MachineProblem2\\Models\\StudentProfile.cs",
+              "RelativeToolTip": "CATAN_MachineProblem2\\Models\\StudentProfile.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T00:28:23.429Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

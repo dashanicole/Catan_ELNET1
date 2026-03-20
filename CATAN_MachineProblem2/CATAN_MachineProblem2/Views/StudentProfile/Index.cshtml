@@ -1,0 +1,47 @@
+@model List<CATAN_MachineProblem2.Models.StudentProfile>
+
+@{
+    (string text, string css) GetHonorInfo(int grade)
+    {
+        if (grade >= 98) return ("Summa Cum Laude", "badge summa");
+        if (grade >= 95) return ("Magna Cum Laude", "badge magna");
+        if (grade >= 90) return ("Cum Laude", "badge cum");
+        return ("No Honor", "none");
+    }
+}
+
+<div class="container">
+    <partial name="_Header" />
+
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+        <h2 style="margin: 0; border: none;">Student Records</h2>
+        <a asp-controller="StudentProfile" asp-action="Register" class="btn btn-primary">Register Student</a>
+    </div>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Course</th>
+                <th>Grade</th>
+                <th>Honor</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var student in Model)
+            {
+                var honor = GetHonorInfo(student.Grade);
+                <tr>
+                    <td style="font-weight: bold;">@student.Id</td>
+                    <td>@student.Name</td>
+                    <td>@student.Course</td>
+                    <td>@student.Grade</td>
+                    <td><span class="@honor.css">@honor.text</span></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <partial name="_Footer" />
+</div>
