@@ -1,0 +1,31 @@
+<div class="container text-center mt-5">
+    <div class="card shadow p-4 border-0">
+        <h2 class="text-primary mb-4">Clinic Consultation Logging System</h2>
+        <div class="row g-4 justify-content-center">
+            <div class="col-md-5">
+                <a asp-controller="Doctors" asp-action="Index" class="btn btn-outline-primary btn-lg w-100 p-4 shadow-sm">
+                    <i class="bi bi-person-badge"></i>
+                    <div>Doctors Management</div>
+                </a>
+            </div>
+            <div class="col-md-5">
+                <a asp-controller="Patients" asp-action="Index" class="btn btn-outline-success btn-lg w-100 p-4 shadow-sm">
+                    <i class="bi bi-people"></i>
+                    <div>Patients Management</div>
+                </a>
+            </div>
+            <div class="col-md-5">
+                <a asp-controller="Consultations" asp-action="Index" class="btn btn-outline-warning btn-lg w-100 p-4 shadow-sm">
+                    <i class="bi bi-journal-medical"></i>
+                    <div>Consultation Transactions</div>
+                </a>
+            </div>
+            <div class="col-md-5">
+                <a asp-controller="Inquiry" asp-action="Index" class="btn btn-info btn-lg w-100 p-4 shadow-sm text-white">
+                    <i class="bi bi-search"></i>
+                    <div>Consultation Inquiries</div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>

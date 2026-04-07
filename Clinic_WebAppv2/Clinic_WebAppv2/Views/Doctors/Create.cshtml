@@ -1,0 +1,26 @@
+@model Clinic_WebAppv2.Models.Doctor
+
+<div class="card p-4">
+    <h2>Add New Doctor</h2>
+    <hr />
+    <form asp-action="Create">
+        <div class="mb-3">
+            <label asp-for="docFName" class="form-label">First Name</label>
+            <input asp-for="docFName" class="form-control" required />
+        </div>
+        <div class="mb-3">
+            <label asp-for="docLName" class="form-label">Last Name</label>
+            <input asp-for="docLName" class="form-control" required />
+        </div>
+        <div class="mb-3">
+            <label asp-for="docAddress" class="form-label">Address</label>
+            <input asp-for="docAddress" class="form-control" required />
+        </div>
+        <div class="mb-3">
+            <label asp-for="docSpecial" class="form-label">Specialization</label>
+            <input asp-for="docSpecial" class="form-control" required />
+        </div>
+        <button type="submit" class="btn btn-primary">Save Doctor</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </form>
+</div>

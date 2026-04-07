@@ -1,0 +1,33 @@
+﻿@model Clinic_WebAppv2.Models.Consultation
+
+<h2>Add Consultation</h2>
+<hr />
+<form asp-action="Create">
+    <div class="form-group mb-3">
+        <label>Consultation Date</label>
+        <input asp-for="consultDate" class="form-control" type="date" />
+    </div>
+
+    <div class="form-group mb-3">
+        <label>Select Patient</label>
+        <select asp-for="patID" class="form-control" asp-items="ViewBag.patID"></select>
+    </div>
+
+    <div class="form-group mb-3">
+        <label>Select Doctor</label>
+        <select asp-for="docID" class="form-control" asp-items="ViewBag.docID"></select>
+    </div>
+
+    <div class="form-group mb-3">
+        <label>Diagnosis</label>
+        <textarea asp-for="diagnosis" class="form-control"></textarea>
+    </div>
+
+    <div class="form-group mb-3">
+        <label>Prescription</label>
+        <textarea asp-for="prescription" class="form-control"></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save Transaction</button>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</form>

@@ -1,0 +1,82 @@
+@model IEnumerable<Clinic_WebAppv2.Models.Consultation>
+
+<div class="card p-4 shadow-sm">
+    <h2 class="text-primary border-bottom pb-2">Consultation Inquiry</h2>
+    
+    <div class="bg-light p-3 rounded mb-4">
+        <h5>Specialized Filters</h5>
+        <form method="get" class="row g-3">
+            <div class="col-md-4">
+                <label class="form-label">Doctor Specialization</label>
+                <input type="text" name="special" class="form-control" value="@Context.Request.Query["special"]" placeholder="e.g. Cardiology" />
+            </div>
+            <div class="col-md-2">
+                <label class="form-label">Min Age</label>
+                <input type="number" name="minAge" class="form-control" value="@Context.Request.Query["minAge"]" />
+            </div>
+            <div class="col-md-2">
+                <label class="form-label">Max Age</label>
+                <input type="number" name="maxAge" class="form-control" value="@Context.Request.Query["maxAge"]" />
+            </div>
+            <div class="col-md-2">
+                <label class="form-label">Patient ID</label>
+                <input type="number" name="patID" class="form-control" value="@Context.Request.Query["patID"]" />
+            </div>
+            <div class="col-md-2">
+                <label class="form-label">Doctor ID</label>
+                <input type="number" name="docID" class="form-control" value="@Context.Request.Query["docID"]" />
+            </div>
+            <div class="col-md-3">
+                <label class="form-label">From Date</label>
+                <input type="date" name="fromDate" class="form-control" value="@Context.Request.Query["fromDate"]" />
+            </div>
+            <div class="col-md-3">
+                <label class="form-label">To Date</label>
+                <input type="date" name="toDate" class="form-control" value="@Context.Request.Query["toDate"]" />
+            </div>
+            <div class="col-md-2 d-flex align-items-end">
+                <button type="submit" class="btn btn-primary w-100">Search</button>
+            </div>
+            <div class="col-md-2 d-flex align-items-end">
+                <a asp-action="Index" class="btn btn-outline-secondary w-100">Reset</a>
+            </div>
+        </form>
+    </div>
+
+    <div class="alert alert-info d-flex justify-content-between align-items-center">
+        <span><strong>Aggregate Result:</strong> Found @ViewBag.Count records matching your criteria.</span>
+        <span class="badge bg-primary">COUNT: @ViewBag.Count</span>
+    </div>
+
+    <div class="table-responsive">
+        <table class="table table-hover table-bordered">
+            <thead class="table-dark">
+                <tr>
+                    <th>Date</th>
+                    <th>Patient (ID)</th>
+                    <th>Doctor (ID - Spec)</th>
+                    <th>Diagnosis</th>
+                    <th>Prescription</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.consultDate.ToString("yyyy-MM-dd HH:mm")</td>
+                        <td>@item.Patient?.patFName @item.Patient?.patLName (@item.patID)</td>
+                        <td>Dr. @item.Doctor?.docLName (@item.docID - @item.Doctor?.docSpecial)</td>
+                        <td>@item.diagnosis</td>
+                        <td>@item.prescription</td>
+                    </tr>
+                }
+                @if (!Model.Any())
+                {
+                    <tr>
+                        <td colspan="5" class="text-center text-muted">No records found.</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

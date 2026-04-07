@@ -1,0 +1,42 @@
+@model Clinic_WebApp.Models.Doctor
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Doctor</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DocFname)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DocFname)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DocLname)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DocLname)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DocAddress)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DocAddress)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DocSpecialization)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DocSpecialization)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.DocId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

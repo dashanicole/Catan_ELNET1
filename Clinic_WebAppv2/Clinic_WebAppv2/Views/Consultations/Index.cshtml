@@ -1,0 +1,46 @@
+@model IEnumerable<Clinic_WebAppv2.Models.Consultation>
+
+<div class="card p-4">
+    <h2 class="text-success">Consultations Management</h2>
+
+    <form asp-action="Index" method="get" class="mb-3">
+        <div class="input-group">
+            <input type="text" name="search" class="form-control" placeholder="Search by Patient or Doctor Last Name..." value="@Context.Request.Query["search"]" />
+            <button type="submit" class="btn btn-secondary">Search</button>
+        </div>
+    </form>
+
+    <p>
+        <a asp-action="Create" class="btn btn-primary">Add New Consultation</a>
+        <span class="badge bg-info text-dark">Total Consultations: @ViewBag.Count</span>
+    </p>
+
+    <table class="table table-striped border">
+        <thead class="table-dark">
+            <tr>
+                <th>ID</th>
+                <th>Date</th>
+                <th>Patient</th>
+                <th>Doctor</th>
+                <th>Diagnosis</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.consultID</td>
+                    <td>@item.consultDate.ToString("yyyy-MM-dd HH:mm")</td>
+                    <td>@item.Patient?.patFName @item.Patient?.patLName</td>
+                    <td>Dr. @item.Doctor?.docLName</td>
+                    <td>@item.diagnosis</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.consultID" class="btn btn-warning btn-sm">Update</a>
+                        <a asp-action="Delete" asp-route-id="@item.consultID" class="btn btn-danger btn-sm" onclick="return confirm('Delete this consultation?')">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

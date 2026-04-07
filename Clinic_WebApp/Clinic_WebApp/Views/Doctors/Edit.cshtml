@@ -1,0 +1,49 @@
+@model Clinic_WebApp.Models.Doctor
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Doctor</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="DocId" />
+            <div class="form-group">
+                <label asp-for="DocFname" class="control-label"></label>
+                <input asp-for="DocFname" class="form-control" />
+                <span asp-validation-for="DocFname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DocLname" class="control-label"></label>
+                <input asp-for="DocLname" class="form-control" />
+                <span asp-validation-for="DocLname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DocAddress" class="control-label"></label>
+                <input asp-for="DocAddress" class="form-control" />
+                <span asp-validation-for="DocAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DocSpecialization" class="control-label"></label>
+                <input asp-for="DocSpecialization" class="form-control" />
+                <span asp-validation-for="DocSpecialization" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

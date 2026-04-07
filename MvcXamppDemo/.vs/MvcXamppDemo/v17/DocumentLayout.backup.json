@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DIETHER CATAN\\source\\repos\\MvcXamppDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7035B213-1448-4735-888F-BE3869538C2E}|MvcXamppDemo\\MvcXamppDemo.csproj|c:\\users\\diether catan\\source\\repos\\mvcxamppdemo\\mvcxamppdemo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7035B213-1448-4735-888F-BE3869538C2E}|MvcXamppDemo\\MvcXamppDemo.csproj|solutionrelative:mvcxamppdemo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7035B213-1448-4735-888F-BE3869538C2E}|MvcXamppDemo\\MvcXamppDemo.csproj|c:\\users\\diether catan\\source\\repos\\mvcxamppdemo\\mvcxamppdemo\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7035B213-1448-4735-888F-BE3869538C2E}|MvcXamppDemo\\MvcXamppDemo.csproj|solutionrelative:mvcxamppdemo\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7035B213-1448-4735-888F-BE3869538C2E}|MvcXamppDemo\\MvcXamppDemo.csproj|c:\\users\\diether catan\\source\\repos\\mvcxamppdemo\\mvcxamppdemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7035B213-1448-4735-888F-BE3869538C2E}|MvcXamppDemo\\MvcXamppDemo.csproj|solutionrelative:mvcxamppdemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7035B213-1448-4735-888F-BE3869538C2E}|MvcXamppDemo\\MvcXamppDemo.csproj|c:\\users\\diether catan\\source\\repos\\mvcxamppdemo\\mvcxamppdemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7035B213-1448-4735-888F-BE3869538C2E}|MvcXamppDemo\\MvcXamppDemo.csproj|solutionrelative:mvcxamppdemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7035B213-1448-4735-888F-BE3869538C2E}|MvcXamppDemo\\MvcXamppDemo.csproj|c:\\users\\diether catan\\source\\repos\\mvcxamppdemo\\mvcxamppdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7035B213-1448-4735-888F-BE3869538C2E}|MvcXamppDemo\\MvcXamppDemo.csproj|solutionrelative:mvcxamppdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7035B213-1448-4735-888F-BE3869538C2E}|MvcXamppDemo\\MvcXamppDemo.csproj|c:\\users\\diether catan\\source\\repos\\mvcxamppdemo\\mvcxamppdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7035B213-1448-4735-888F-BE3869538C2E}|MvcXamppDemo\\MvcXamppDemo.csproj|solutionrelative:mvcxamppdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7035B213-1448-4735-888F-BE3869538C2E}|MvcXamppDemo\\MvcXamppDemo.csproj|c:\\users\\diether catan\\source\\repos\\mvcxamppdemo\\mvcxamppdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7035B213-1448-4735-888F-BE3869538C2E}|MvcXamppDemo\\MvcXamppDemo.csproj|solutionrelative:mvcxamppdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7035B213-1448-4735-888F-BE3869538C2E}|MvcXamppDemo\\MvcXamppDemo.csproj|c:\\users\\diether catan\\source\\repos\\mvcxamppdemo\\mvcxamppdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7035B213-1448-4735-888F-BE3869538C2E}|MvcXamppDemo\\MvcXamppDemo.csproj|solutionrelative:mvcxamppdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7035B213-1448-4735-888F-BE3869538C2E}|MvcXamppDemo\\MvcXamppDemo.csproj|c:\\users\\diether catan\\source\\repos\\mvcxamppdemo\\mvcxamppdemo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7035B213-1448-4735-888F-BE3869538C2E}|MvcXamppDemo\\MvcXamppDemo.csproj|solutionrelative:mvcxamppdemo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7035B213-1448-4735-888F-BE3869538C2E}|MvcXamppDemo\\MvcXamppDemo.csproj|c:\\users\\diether catan\\source\\repos\\mvcxamppdemo\\mvcxamppdemo\\migrations\\20260206162017_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7035B213-1448-4735-888F-BE3869538C2E}|MvcXamppDemo\\MvcXamppDemo.csproj|solutionrelative:mvcxamppdemo\\migrations\\20260206162017_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\MvcXamppDemo\\MvcXamppDemo\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvcXamppDemo\\Views\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\MvcXamppDemo\\MvcXamppDemo\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "MvcXamppDemo\\Views\\Students\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-08T10:57:32.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\MvcXamppDemo\\MvcXamppDemo\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "MvcXamppDemo\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\MvcXamppDemo\\MvcXamppDemo\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "MvcXamppDemo\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAwwHYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T10:29:30.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\MvcXamppDemo\\MvcXamppDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcXamppDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\MvcXamppDemo\\MvcXamppDemo\\appsettings.json",
+              "RelativeToolTip": "MvcXamppDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-06T15:56:55.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\MvcXamppDemo\\MvcXamppDemo\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "MvcXamppDemo\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\MvcXamppDemo\\MvcXamppDemo\\Models\\Student.cs",
+              "RelativeToolTip": "MvcXamppDemo\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T16:11:39.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\MvcXamppDemo\\MvcXamppDemo\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MvcXamppDemo\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\MvcXamppDemo\\MvcXamppDemo\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MvcXamppDemo\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-07T12:30:28.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\MvcXamppDemo\\MvcXamppDemo\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MvcXamppDemo\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\MvcXamppDemo\\MvcXamppDemo\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MvcXamppDemo\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-06T16:38:37.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\MvcXamppDemo\\MvcXamppDemo\\Program.cs",
+              "RelativeDocumentMoniker": "MvcXamppDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\MvcXamppDemo\\MvcXamppDemo\\Program.cs",
+              "RelativeToolTip": "MvcXamppDemo\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T16:14:05.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\MvcXamppDemo\\MvcXamppDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcXamppDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\MvcXamppDemo\\MvcXamppDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcXamppDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T13:47:06.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\MvcXamppDemo\\MvcXamppDemo\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MvcXamppDemo\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\MvcXamppDemo\\MvcXamppDemo\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MvcXamppDemo\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T16:13:36.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260206162017_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\MvcXamppDemo\\MvcXamppDemo\\Migrations\\20260206162017_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MvcXamppDemo\\Migrations\\20260206162017_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\MvcXamppDemo\\MvcXamppDemo\\Migrations\\20260206162017_InitialCreate.cs",
+              "RelativeToolTip": "MvcXamppDemo\\Migrations\\20260206162017_InitialCreate.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T16:20:17.307Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

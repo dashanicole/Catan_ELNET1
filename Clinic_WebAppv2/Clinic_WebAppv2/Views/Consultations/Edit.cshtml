@@ -1,0 +1,36 @@
+@model Clinic_WebAppv2.Models.Consultation
+
+<div class="card p-4">
+    <h2>Update Consultation</h2>
+    <hr />
+    <form asp-action="Edit">
+        <input type="hidden" asp-for="consultID" />
+        <div class="mb-3">
+            <label asp-for="consultDate" class="form-label">Consultation Date</label>
+            <input asp-for="consultDate" class="form-control" type="datetime-local" required />
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="patID" class="form-label">Select Patient</label>
+            <select asp-for="patID" class="form-select" asp-items="ViewBag.patID"></select>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="docID" class="form-label">Select Doctor</label>
+            <select asp-for="docID" class="form-select" asp-items="ViewBag.docID"></select>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="diagnosis" class="form-label">Diagnosis</label>
+            <textarea asp-for="diagnosis" class="form-control" rows="3"></textarea>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="prescription" class="form-label">Prescription</label>
+            <textarea asp-for="prescription" class="form-control" rows="3"></textarea>
+        </div>
+
+        <button type="submit" class="btn btn-warning">Update Transaction</button>
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </form>
+</div>

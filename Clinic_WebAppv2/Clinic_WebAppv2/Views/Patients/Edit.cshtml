@@ -1,0 +1,27 @@
+@model Clinic_WebAppv2.Models.Patient
+
+<div class="card p-4">
+    <h2>Update Patient</h2>
+    <hr />
+    <form asp-action="Edit">
+        <input type="hidden" asp-for="patID" />
+        <div class="mb-3">
+            <label asp-for="patFName" class="form-label">First Name</label>
+            <input asp-for="patFName" class="form-control" required />
+        </div>
+        <div class="mb-3">
+            <label asp-for="patLName" class="form-label">Last Name</label>
+            <input asp-for="patLName" class="form-control" required />
+        </div>
+        <div class="mb-3">
+            <label asp-for="patBDate" class="form-label">Birth Date</label>
+            <input asp-for="patBDate" class="form-control" type="date" required />
+        </div>
+        <div class="mb-3">
+            <label asp-for="patTelNo" class="form-label">Telephone No</label>
+            <input asp-for="patTelNo" class="form-control" required />
+        </div>
+        <button type="submit" class="btn btn-warning">Update Patient</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </form>
+</div>
