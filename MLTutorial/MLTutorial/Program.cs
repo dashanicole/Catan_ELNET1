@@ -2,6 +2,7 @@
 using Microsoft.ML.Data;
 using System;
 using System.Linq;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace ProgFitML
 {
@@ -46,7 +47,11 @@ namespace ProgFitML
         {
             var mlContext = new MLContext(seed: 1);
 
-            string dataPath = @"C:\Users\DIETHER CATAN\source\repos\MLTutorial\MLTutorial\progfit-data.txt";
+            //string dataPath = Path.Combine(AppContext.BaseDirectory, "progfit-data-replaced-from-xlsx.txt");
+            //string dataPath = Path.Combine(AppContext.BaseDirectory, "progfit-data.txt");
+            //string dataPath = Path.Combine(AppContext.BaseDirectory, "progfit-data-expanded.txt");
+            //string dataPath = Path.Combine(AppContext.BaseDirectory, "progfit-data-balanced.txt");
+            string dataPath = Path.Combine(AppContext.BaseDirectory, "progfit-data-balanced-expanded.txt");
 
             IDataView trainingData = mlContext.Data.LoadFromTextFile<ProgFitData>(
                 path: dataPath,

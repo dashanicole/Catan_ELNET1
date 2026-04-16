@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DIETHER CATAN\\source\\repos\\MLTutorial\\",
+  "WorkspaceRootPath": "C:\\Users\\DIETHER CATAN\\OneDrive\\Documents\\GitHub_DashaNicole\\Catan_ELNET1\\MLTutorial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CF11E43-6B1A-340C-AC44-C66303A7B4F2}|MLTutorial\\MLTutorial.csproj|c:\\users\\diether catan\\source\\repos\\mltutorial\\mltutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CF11E43-6B1A-340C-AC44-C66303A7B4F2}|MLTutorial\\MLTutorial.csproj|c:\\users\\diether catan\\onedrive\\documents\\github_dashanicole\\catan_elnet1\\mltutorial\\mltutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CF11E43-6B1A-340C-AC44-C66303A7B4F2}|MLTutorial\\MLTutorial.csproj|solutionrelative:mltutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CF11E43-6B1A-340C-AC44-C66303A7B4F2}|MLTutorial\\MLTutorial.csproj|c:\\users\\diether catan\\source\\repos\\mltutorial\\mltutorial\\mltutorial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2CF11E43-6B1A-340C-AC44-C66303A7B4F2}|MLTutorial\\MLTutorial.csproj|solutionrelative:mltutorial\\mltutorial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2CF11E43-6B1A-340C-AC44-C66303A7B4F2}|MLTutorial\\MLTutorial.csproj|c:\\users\\diether catan\\onedrive\\documents\\github_dashanicole\\catan_elnet1\\mltutorial\\mltutorial\\progfit-data-replaced-from-xlsx.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2CF11E43-6B1A-340C-AC44-C66303A7B4F2}|MLTutorial\\MLTutorial.csproj|solutionrelative:mltutorial\\progfit-data-replaced-from-xlsx.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CF11E43-6B1A-340C-AC44-C66303A7B4F2}|MLTutorial\\MLTutorial.csproj|c:\\users\\diether catan\\source\\repos\\mltutorial\\mltutorial\\progfit-data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{2CF11E43-6B1A-340C-AC44-C66303A7B4F2}|MLTutorial\\MLTutorial.csproj|c:\\users\\diether catan\\onedrive\\documents\\github_dashanicole\\catan_elnet1\\mltutorial\\mltutorial\\progfit-data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{2CF11E43-6B1A-340C-AC44-C66303A7B4F2}|MLTutorial\\MLTutorial.csproj|solutionrelative:mltutorial\\progfit-data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF11E43-6B1A-340C-AC44-C66303A7B4F2}|MLTutorial\\MLTutorial.csproj|c:\\users\\diether catan\\onedrive\\documents\\github_dashanicole\\catan_elnet1\\mltutorial\\mltutorial\\mltutorial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2CF11E43-6B1A-340C-AC44-C66303A7B4F2}|MLTutorial\\MLTutorial.csproj|solutionrelative:mltutorial\\mltutorial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,15 +26,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "progfit-data-replaced-from-xlsx.txt",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\OneDrive\\Documents\\GitHub_DashaNicole\\Catan_ELNET1\\MLTutorial\\MLTutorial\\progfit-data-replaced-from-xlsx.txt",
+              "RelativeDocumentMoniker": "MLTutorial\\progfit-data-replaced-from-xlsx.txt",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\OneDrive\\Documents\\GitHub_DashaNicole\\Catan_ELNET1\\MLTutorial\\MLTutorial\\progfit-data-replaced-from-xlsx.txt",
+              "RelativeToolTip": "MLTutorial\\progfit-data-replaced-from-xlsx.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-12T12:59:05.453Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "progfit-data.txt",
-              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\MLTutorial\\MLTutorial\\progfit-data.txt",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\OneDrive\\Documents\\GitHub_DashaNicole\\Catan_ELNET1\\MLTutorial\\MLTutorial\\progfit-data.txt",
               "RelativeDocumentMoniker": "MLTutorial\\progfit-data.txt",
-              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\MLTutorial\\MLTutorial\\progfit-data.txt",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\OneDrive\\Documents\\GitHub_DashaNicole\\Catan_ELNET1\\MLTutorial\\MLTutorial\\progfit-data.txt",
               "RelativeToolTip": "MLTutorial\\progfit-data.txt",
               "ViewState": "AgIAAGMAAAAAAAAAAAAAAHcAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -38,13 +54,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MLTutorial.csproj",
-              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\MLTutorial\\MLTutorial\\MLTutorial.csproj",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\OneDrive\\Documents\\GitHub_DashaNicole\\Catan_ELNET1\\MLTutorial\\MLTutorial\\MLTutorial.csproj",
               "RelativeDocumentMoniker": "MLTutorial\\MLTutorial.csproj",
-              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\MLTutorial\\MLTutorial\\MLTutorial.csproj",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\OneDrive\\Documents\\GitHub_DashaNicole\\Catan_ELNET1\\MLTutorial\\MLTutorial\\MLTutorial.csproj",
               "RelativeToolTip": "MLTutorial\\MLTutorial.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-03-07T11:17:11.148Z"
             },
@@ -52,14 +68,18 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\source\\repos\\MLTutorial\\MLTutorial\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\DIETHER CATAN\\OneDrive\\Documents\\GitHub_DashaNicole\\Catan_ELNET1\\MLTutorial\\MLTutorial\\Program.cs",
               "RelativeDocumentMoniker": "MLTutorial\\Program.cs",
-              "ToolTip": "C:\\Users\\DIETHER CATAN\\source\\repos\\MLTutorial\\MLTutorial\\Program.cs",
+              "ToolTip": "C:\\Users\\DIETHER CATAN\\OneDrive\\Documents\\GitHub_DashaNicole\\Catan_ELNET1\\MLTutorial\\MLTutorial\\Program.cs",
               "RelativeToolTip": "MLTutorial\\Program.cs",
-              "ViewState": "AgIAAMEAAAAAAAAAAAAwwNgAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAqwJoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-07T11:16:53.289Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

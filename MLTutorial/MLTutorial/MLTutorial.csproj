@@ -16,6 +16,18 @@
     <None Update="iris-data.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="progfit-data-balanced-expanded.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="progfit-data-balanced.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="progfit-data-expanded.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="progfit-data-replaced-from-xlsx.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="progfit-data.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
