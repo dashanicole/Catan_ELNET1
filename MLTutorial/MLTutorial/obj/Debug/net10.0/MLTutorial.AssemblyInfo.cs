@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MLTutorial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4dcde0177318f620288b9a0e43f1b1017feb95a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d50096d7a3e506011077b96af7f7d7e4b79a8a1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MLTutorial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MLTutorial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

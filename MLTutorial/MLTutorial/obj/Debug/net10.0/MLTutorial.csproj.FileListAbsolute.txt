@@ -101,3 +101,9 @@ C:\Users\DIETHER CATAN\OneDrive\Documents\GitHub_DashaNicole\Catan_ELNET1\MLTuto
 C:\Users\DIETHER CATAN\OneDrive\Documents\GitHub_DashaNicole\Catan_ELNET1\MLTutorial\MLTutorial\bin\Debug\net10.0\progfit-data-expanded.txt
 C:\Users\DIETHER CATAN\OneDrive\Documents\GitHub_DashaNicole\Catan_ELNET1\MLTutorial\MLTutorial\bin\Debug\net10.0\progfit-data-balanced.txt
 C:\Users\DIETHER CATAN\OneDrive\Documents\GitHub_DashaNicole\Catan_ELNET1\MLTutorial\MLTutorial\bin\Debug\net10.0\progfit-data-balanced-expanded.txt
+C:\Users\DIETHER CATAN\OneDrive\Documents\GitHub_DashaNicole\Catan_ELNET1\MLTutorial\MLTutorial\bin\Debug\net10.0\progfit_dataset.txt
+C:\Users\DIETHER CATAN\OneDrive\Documents\GitHub_DashaNicole\Catan_ELNET1\MLTutorial\MLTutorial\bin\Debug\net10.0\Microsoft.ML.LightGbm.dll
+C:\Users\DIETHER CATAN\OneDrive\Documents\GitHub_DashaNicole\Catan_ELNET1\MLTutorial\MLTutorial\bin\Debug\net10.0\runtimes\linux-x64\native\lib_lightgbm.so
+C:\Users\DIETHER CATAN\OneDrive\Documents\GitHub_DashaNicole\Catan_ELNET1\MLTutorial\MLTutorial\bin\Debug\net10.0\runtimes\osx-x64\native\lib_lightgbm.dylib
+C:\Users\DIETHER CATAN\OneDrive\Documents\GitHub_DashaNicole\Catan_ELNET1\MLTutorial\MLTutorial\bin\Debug\net10.0\runtimes\win-x64\native\lib_lightgbm.dll
+C:\Users\DIETHER CATAN\OneDrive\Documents\GitHub_DashaNicole\Catan_ELNET1\MLTutorial\MLTutorial\bin\Debug\net10.0\runtimes\win-x64\native\lightgbm.exe
